@@ -2,7 +2,6 @@ altair==6.0.0
 annotated-doc==0.0.4
 annotated-types==0.7.0
 anyio==4.12.1
-apturl==0.5.2
 asgiref==3.9.1
 attrs==25.4.0
 bcrypt==3.2.0
